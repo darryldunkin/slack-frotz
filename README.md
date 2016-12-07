@@ -1,4 +1,11 @@
 
+# Frotz
+
+Play Infocom games in Slack.
+
+## Requirements
+
+emerge/yum/apt the *frotz* package.
 
 # Configuration
 
